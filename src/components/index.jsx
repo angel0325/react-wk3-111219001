@@ -38,8 +38,9 @@ function index(){
       </button>
       </div>
       
-      s
+      
       
           </>
     )
 }
+export default index;
